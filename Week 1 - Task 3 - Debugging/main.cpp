@@ -2,16 +2,17 @@
 
 int main()
 {
-	int i;
-	j = i + 1;
+	int i = 4;
+	int j = i + 1;
 
-	if (j = 5)
+	if (j == 5)
 	{
-		cout << "Variable j is equal to 5";
-
+		std::cout << "Variable j is equal to 5";
+	}
+	//else statement is useless, should be deleted
 	else
 	{
-		std::cout << "This else statement does nothing..."
+		std::cout << "This else statement does nothing...";
 	}
 	
 }
