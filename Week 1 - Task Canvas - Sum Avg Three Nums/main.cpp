@@ -9,7 +9,10 @@ bool validateNum(string);
 int main()
 {
 	string userInput = "";
-	int first = 0, second = 0, third = 0, sum = 0;
+	int first = 0;
+	int second = 0;
+	int third = 0;
+	int sum = 0;
 	float avg = 0.0f;
 
 	//getting first number
