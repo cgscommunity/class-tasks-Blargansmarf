@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 1 - Task Canvas - Sum 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 2 - Canvas Task - Leap Year", "Week 2 - Canvas Task - Leap Year\Week 2 - Canvas Task - Leap Year.vcxproj", "{003A0323-1BCC-4402-A38F-639CD0982522}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 3 - Canvas Task - Cube Number", "Week 3 - Canvas Task - Cube Number\Week 3 - Canvas Task - Cube Number.vcxproj", "{1A05B0DF-CA64-4A78-8E11-07FF49789AF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{003A0323-1BCC-4402-A38F-639CD0982522}.Release|x64.Build.0 = Release|x64
 		{003A0323-1BCC-4402-A38F-639CD0982522}.Release|x86.ActiveCfg = Release|Win32
 		{003A0323-1BCC-4402-A38F-639CD0982522}.Release|x86.Build.0 = Release|Win32
+		{1A05B0DF-CA64-4A78-8E11-07FF49789AF9}.Debug|x64.ActiveCfg = Debug|x64
+		{1A05B0DF-CA64-4A78-8E11-07FF49789AF9}.Debug|x64.Build.0 = Debug|x64
+		{1A05B0DF-CA64-4A78-8E11-07FF49789AF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A05B0DF-CA64-4A78-8E11-07FF49789AF9}.Debug|x86.Build.0 = Debug|Win32
+		{1A05B0DF-CA64-4A78-8E11-07FF49789AF9}.Release|x64.ActiveCfg = Release|x64
+		{1A05B0DF-CA64-4A78-8E11-07FF49789AF9}.Release|x64.Build.0 = Release|x64
+		{1A05B0DF-CA64-4A78-8E11-07FF49789AF9}.Release|x86.ActiveCfg = Release|Win32
+		{1A05B0DF-CA64-4A78-8E11-07FF49789AF9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -312,6 +322,7 @@ Global
 		{C5CD55B6-4DD7-4656-92AA-11FB1A8334B2} = {D515A920-EE3E-4891-82B2-CD6AB33AE1E8}
 		{49D10889-4662-4C4D-8230-2611529968EF} = {06352151-747B-4D8A-9859-570D21C56203}
 		{003A0323-1BCC-4402-A38F-639CD0982522} = {0A07D86F-9695-470E-8501-9FB40B664D6A}
+		{1A05B0DF-CA64-4A78-8E11-07FF49789AF9} = {999127BC-B8DA-4466-A4BF-D0A29854A932}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B718C59A-8E22-46D3-ABAC-947048204E71}
