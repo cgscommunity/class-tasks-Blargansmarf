@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c5cd55b6-4dd7-4656-92aa-11fb1a8334b2}</ProjectGuid>
-    <RootNamespace>Week5Task5SentenceReversal</RootNamespace>
+    <ProjectGuid>{b1eb3f44-3d6a-47c2-b8c3-0e4e38a45782}</ProjectGuid>
+    <RootNamespace>Week4CanvasTaskPrintFactors</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -72,8 +72,6 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IntDir>Intermediate\$(Configuration)\</IntDir>
-    <OutDir>bin\$(Configuration)\$(Platform)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
